@@ -28,13 +28,7 @@ So, putting that together, and making a common denominator, gives an answer in t
 [s2.numerator, s3.numerator, s4.numerator, s5.numerator, denominator] which is
 [0, 3, 2, 9, 14].
 
-###Constraints
-=========
-Your code will run inside a Python 2.7.6 sandbox.
-
-Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
-
-###Test cases
+### Test cases
 ==========
 
 Inputs:
