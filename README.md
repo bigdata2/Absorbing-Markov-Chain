@@ -45,4 +45,4 @@ Output:
 
 # Solution
 
-The problem can be mapped to a Markov chain with absorbing states. The algorithm to find absorbing state probability can be found [here](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter11.pdf) and is also mentioned below: 
+The problem can be mapped to a Markov chain with absorbing states. The algorithm to find absorbing state probability can be found [here](https://github.com/bigdata2/Absorbing-Markov-Chain/blob/master/Absorbing_Markov_Chains.pdf) and is also mentioned below: 
